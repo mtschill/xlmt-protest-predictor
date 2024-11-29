@@ -76,4 +76,3 @@ The dashboard can work with either:
 - The dashboard will automatically detect and use the cached parquet file if available
 - If no cached file exists, it will process the raw data files and create one
 - Updates to raw data files will require manual deletion of the parquet file to regenerate
-```
