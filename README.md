@@ -77,7 +77,3 @@ The dashboard can work with either:
 - If no cached file exists, it will process the raw data files and create one
 - Updates to raw data files will require manual deletion of the parquet file to regenerate
 ```
-
-The user should also create a requirements.txt file in the project root to list all dependencies. Let me know if you'd like me to provide that as well.
-
-Made changes.
